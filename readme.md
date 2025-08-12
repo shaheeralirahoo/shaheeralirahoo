@@ -3,12 +3,6 @@
 ### Backend Developer | Tech Enthusiast | Lifelong Learner  
 *Karachi, Pakistan* 🇵🇰
 
----
-
-
-
----
-
 ## 🚀 What I'm Up To
 - 🔥 Leveling up my **React** & **TypeScript** skills to become a fullstack wizard  
 - 🤖 Exploring **AI & Machine Learning** — building fun projects with TensorFlow & Python  
