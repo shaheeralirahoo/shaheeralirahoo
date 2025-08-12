@@ -5,11 +5,7 @@
 
 ---
 
-<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/shaheeralirahoo/count.svg)
-
-</div>
 
 ---
 
@@ -54,10 +50,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-shaheeralirahoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheeralirahoo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheeralirahoo)  
 
----
 
-<div align="center">
-
-![Shaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheeralirahoo&show_icons=true&theme=radical&hide_border=true)
-
-</div>
