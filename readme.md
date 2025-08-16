@@ -10,6 +10,16 @@
 
 ---
 
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-shaheeralirahoo555@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheeralirahoo555@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-shaheeralirahoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheeralirahoo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-ali-25b400253/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Shaheer_Ali-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://shaheer-ali.vercel.app/#)  
+
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 | Backend                 | Databases               | Languages              | Cloud & DevOps          | Payments                  | Others                    |
@@ -35,15 +45,6 @@
 - 🎮 Casual gamer & tech geek  
 - 🤝 Big fan of collaboration and knowledge sharing  
 - 🌍 Open-minded & always curious about new tech  
-
----
-
-## 📫 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-shaheeralirahoo555@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheeralirahoo555@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-shaheeralirahoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheeralirahoo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-ali-25b400253/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Shaheer_Ali-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://shaheer-ali.vercel.app/#)  
 
 
 
